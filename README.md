@@ -1,3 +1,3 @@
 # ZWIAZEK-BOGRACKI-BOT
 bot serverowy dla servera mądrzy ludzie (kiedyś znany jako fani bograczu)
-potrzebujesz discord.js żeby go odpalić.
+potrzebujesz discord.js i axios i coś jeszcze chyba nie wiem żeby go odpalić.
