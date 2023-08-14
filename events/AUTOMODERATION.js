@@ -1,4 +1,4 @@
-const zakazaneSlowa = ['kurwa', 'pierdole', 'chuj', 'kutas', 'jebany'];
+const zakazaneSlowa = ['kurwa', 'pierdole', 'chuj', 'kutas', 'jebany', 'skurwysyn'];
 const idRoli = '1121770154246819950';
 
 module.exports = {
